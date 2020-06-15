@@ -1,0 +1,2 @@
+E:\projects\c-cpp\Socket_Programming\Server\Debug\Server.exe
+E:\projects\c-cpp\Socket_Programming\Server\Debug\Server.pdb
